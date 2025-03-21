@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Phishing Url Detection",
+      "desc": "A project leveraging machine learning to classify genuine and phishing URLs, developed using the Django framework.",
+      "image": "miniproject",
+      "category": "All Projects",
+      "links": {
+        "view": "https://github.com/naga-siva-kumar/Safeguarding-Against-Evil-Chatbots-and-Enhancing-Security-Against-Phishing-Attacks",
+        "code": "https://github.com/naga-siva-kumar/Safeguarding-Against-Evil-Chatbots-and-Enhancing-Security-Against-Phishing-Attacks"
+      }
+    },
+    {
+      "name": "Tourism Landing Page",
+      "desc": "A tourism landing page designed and developed using HTML, CSS, and JavaScript.",
+      "image": "travel-world-landing-page",
+      "category": "All Projects",
+      "links": {
+        "view": "https://www.linkedin.com/posts/naga-siva-kumar-yarramsetti_octanetinternship-octanet-webdevelopment-activity-7183463032000327680-49bP?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhrdQoBj7glBlaE78bZ2rQKT7dAETtL3Yk",
+        "code": "https://github.com/naga-siva-kumar/OCTANET_APRIL/tree/main/Landing%20Page"
+      }
+    },
+    {
+      "name": "TO DO LIST",
+      "desc": "A TO DO LIST designed and developed using HTML, CSS, and JavaScript.",
+      "image": "to do list",
+      "category": "All Projects",
+      "links": {
+        "view": "https://www.linkedin.com/posts/naga-siva-kumar-yarramsetti_octanetabrapril-internship-webdevelopment-activity-7185182167969214465-qn8g?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhrdQoBj7glBlaE78bZ2rQKT7dAETtL3Yk",
+        "code": "https://github.com/naga-siva-kumar/OCTANET_APRIL/tree/main/To%20Do%20List"
+      }
+    },
+    {
+      "name": "Weather Portal",
+      "desc": "A Weathe Portal designed and developed using HTML, CSS, and JavaScript.",
+      "image": "weather",
+      "category": "All Projects",
+      "links": {
+        "view": "https://www.linkedin.com/posts/naga-siva-kumar-yarramsetti_bharatintern-webdevelopmentinternship-activity-7141060716911931392-L0hc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhrdQoBj7glBlaE78bZ2rQKT7dAETtL3Yk",
+        "code": "https://github.com/naga-siva-kumar/BharatIntern"
+      }
+    },
+    {
+      "name": "Netflix Landing Page",
+      "desc": "A staic Netflix Landing Page designed and developed using HTML, CSS, and JavaScript",
+      "image": "netflix",
+      "category": "All Projects",
+      "links": {
+        "view": "https://www.linkedin.com/posts/naga-siva-kumar-yarramsetti_bharatintern-webdevelopmentinternship-activity-7144934147193487360-YBpV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhrdQoBj7glBlaE78bZ2rQKT7dAETtL3Yk",
+        "code": "https://github.com/naga-siva-kumar/BharatIntern"
+      }
+    },
+    {
+      "name": "Deepfake Tweet Detection",
+      "desc": "A project leveraging Deep Learning and Machine Learning to classify genuine and boot generated tweets, developed using the Django framework.",
+      "image": "majorproject",
+      "category": "All Projects",
+      "links": {
+        "view": "https://github.com/naga-siva-kumar/Deepfake-Tweet-Detection/tree/main/Batch%205%20Deep%20fake",
+        "code": "https://github.com/naga-siva-kumar/Deepfake-Tweet-Detection/tree/main/Batch%205%20Deep%20fake"
+      }
+    }
+  ]
