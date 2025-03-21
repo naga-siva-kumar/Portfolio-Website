@@ -1,5 +1,3 @@
-# GrowthLink
-Task1 for GrowthLink Intern
 # **📌 Portfolio Website**
 
 ## **📖 Project Overview**
